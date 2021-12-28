@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oflenakecs50
 - 👀 I’m interested in swimming and video games for leisure
 - 🌱 I’m currently learning CS50 Introduction to Computer Science course
-- 💞️ I’m looking to collaborate on projects with fellow course students
+- 💞️ I’m looking to collaborate on projects with fellow classmates
 - 📫 How to reach me: oflenakecs50 [at] gmail [dot] com
 
 <!---
