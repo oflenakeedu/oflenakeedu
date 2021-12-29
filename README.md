@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @oflenakeedu (aka Onkgopotse Lenake learning) from South Africa.
+- 👋 Hi, I’m @oflenakeedu (aka Onkgopotse Lenake learning).
 - 👀 I’m interested in swimming and video games for leisure.
-- 🌱 I’m currently learning CS50's Introduction to Computer Science.
-- 💞️ I’m looking to learn and advance my knowledge in Computer Science.
+- 🌱 I’m currently learning Computer Science to advance my knowledge.
+- 💞️ I’m looking to collaborate and contribute to open source projects.
 - 📫 How to reach me: oflenakeedu [at] gmail [dot] com.
 
 <!---
